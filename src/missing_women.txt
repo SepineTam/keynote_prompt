@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Title Slide -->
+  <rect width="1920" height="1080" fill="#f0f0f0"/>
+  <text x="960" y="400" font-family="Arial, sans-serif" font-size="60" text-anchor="middle" fill="#333333">The Price of Tea and Missing Women in China</text>
+  <text x="960" y="500" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#666666">Unraveling the Impact of Sex-Specific Earnings on Gender Imbalance</text>
+  <text x="960" y="600" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#999999">Based on Nancy Qian's 2008 QJE Paper</text>
+</svg>
+
+Speaker Notes:
+Ladies and gentlemen, esteemed colleagues, today we delve into a groundbreaking study that challenges our understanding of gender imbalance in China. We'll explore how the price of tea, a seemingly unrelated economic factor, significantly impacts the phenomenon of "missing women." This presentation is based on the seminal work of Professor Nancy Qian, published in the Quarterly Journal of Economics in 2008.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Research Context -->
+  <rect width="1920" height="1080" fill="#ffffff"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Research Context</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">• The "Missing Women" Phenomenon</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Gender Imbalance in China</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Intersection of Economics and Demography</text>
+  <circle cx="1600" cy="540" r="250" fill="#e6f3ff" stroke="#3366cc" stroke-width="2"/>
+  <text x="1600" y="480" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333333">Sex Ratio at Birth</text>
+  <text x="1600" y="540" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#3366cc">118.06</text>
+  <text x="1600" y="600" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#666666">males per 100 females</text>
+  <text x="1600" y="640" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">(China, 2020)</text>
+</svg>
+
+Speaker Notes:
+Let's begin by establishing the research context. The "Missing Women" phenomenon, first identified by Amartya Sen, refers to the deficit of women in populations where we would expect gender parity. In China, this manifests as a severe gender imbalance, with significantly more males than females. This slide shows the sex ratio at birth in China as of 2020: 118.06 males per 100 females, far above the natural ratio of about 105. This imbalance sits at the intersection of economics and demography, challenging us to consider how economic factors might influence demographic outcomes in unexpected ways.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Research Question -->
+  <rect width="1920" height="1080" fill="#f9f9f9"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Research Question</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="40" fill="#444444">Core Inquiry:</text>
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="35" fill="#666666">How do sex-specific earnings impact gender ratios?</text>
+  <text x="150" y="500" font-family="Arial, sans-serif" font-size="40" fill="#444444">Why the Tea Industry?</text>
+  <text x="200" y="600" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Female comparative advantage in tea picking</text>
+  <text x="200" y="700" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Tea price fluctuations as a natural experiment</text>
+  <rect x="1400" y="200" width="400" height="300" fill="#e6f3ff" stroke="#3366cc" stroke-width="2"/>
+  <text x="1600" y="250" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333333">Tea Production in China</text>
+  <text x="1600" y="300" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#3366cc">2.97 million</text>
+  <text x="1600" y="350" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#666666">metric tons (2020)</text>
+  <text x="1600" y="450" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">Source: Statista</text>
+</svg>
+
+Speaker Notes:
+The central question of this research is: How do sex-specific earnings impact gender ratios? Professor Qian ingeniously uses the tea industry as a lens to examine this question. Why tea? Firstly, women have a comparative advantage in tea picking due to the delicate nature of the work. Secondly, fluctuations in tea prices provide a natural experiment, allowing us to observe how changes in female-specific earning potential affect gender outcomes. It's worth noting the scale of China's tea industry: in 2020, China produced 2.97 million metric tons of tea, highlighting the potential widespread impact of this economic factor on demographics.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Theoretical Framework -->
+  <rect width="1920" height="1080" fill="#ffffff"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Theoretical Framework</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Household Decision Model</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Economic Analysis of Gender Selection</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Children as "Investment Goods"</text>
+  <rect x="1000" y="150" width="800" height="400" fill="#f0f0f0" stroke="#666666" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Simplified Household Utility Function</text>
+  <text x="1400" y="300" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#666666">U = f(c, n_m, n_f, q)</text>
+  <text x="1400" y="350" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">where:</text>
+  <text x="1400" y="400" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">c = consumption, n_m = number of males,</text>
+  <text x="1400" y="440" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">n_f = number of females, q = child quality</text>
+</svg>
+
+Speaker Notes:
+The theoretical framework of this study is rooted in the household decision model. It views gender selection through an economic lens, considering children as "investment goods." The simplified utility function shown here illustrates how households might make decisions based on consumption, the number of male and female children, and child quality. This model helps us understand how changes in the economic value of female children, due to increased earning potential in the tea industry, might alter household decisions and ultimately affect gender ratios.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Data and Methodology -->
+  <rect width="1920" height="1080" fill="#f9f9f9"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Data and Methodology</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Study Area: Tea-growing regions in China</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Time Period: 1970s to 1990s</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Key Variables: Sex ratios, tea prices, planting suitability</text>
+  <text x="150" y="500" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Empirical Strategy: Difference-in-Differences (DID)</text>
+  <rect x="1000" y="150" width="800" height="400" fill="#e6f3ff" stroke="#3366cc" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">DID Model Specification</text>
+  <text x="1400" y="300" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#666666">Y_ct = α + βP_t * S_c + γX_ct + δ_c + η_t + ε_ct</text>
+  <text x="1400" y="350" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">where:</text>
+  <text x="1400" y="400" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">Y_ct = outcome, P_t = tea price, S_c = suitability</text>
+  <text x="1400" y="440" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#999999">X_ct = controls, δ_c = county FE, η_t = year FE</text>
+</svg>
+
+Speaker Notes:
+Now, let's delve into the data and methodology. This study focuses on tea-growing regions in China, spanning from the 1970s to the 1990s. The key variables include sex ratios, tea prices, and the suitability of areas for tea planting. Professor Qian employs a Difference-in-Differences (DID) approach, which allows us to compare changes in gender ratios between tea-producing and non-tea-producing regions before and after tea price changes. The model specification shown here illustrates how this method isolates the effect of tea prices on gender outcomes, controlling for various factors and fixed effects.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Key Findings (1) -->
+  <rect width="1920" height="1080" fill="#ffffff"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Key Findings (1/2)</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">1. Positive correlation between tea prices and female population share</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">2. Stronger effect in regions more suitable for tea cultivation</text>
+  <rect x="1000" y="150" width="800" height="600" fill="#f0f0f0" stroke="#666666" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Impact of Tea Price on Sex Ratio</text>
+  <!-- Add a simple line chart here -->
+  <line x1="1100" y1="650" x2="1700" y2="650" stroke="#666666" stroke-width="2"/>
+  <line x1="1100" y1="650" x2="1100" y2="250" stroke="#666666" stroke-width="2"/>
+  <path d="M1100 600 L1400 450 L1700 300" fill="none" stroke="#3366cc" stroke-width="3"/>
+  <text x="1400" y="700" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#666666">Tea Price</text>
+  <text x="1050" y="450" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#666666" transform="rotate(-90 1050 450)">Female Population Share</text>
+</svg>
+
+Speaker Notes:
+Let's examine the key findings of this study. First and foremost, the data reveals a positive correlation between tea prices and the female population share. As tea prices increased, so did the proportion of females in tea-producing regions. Importantly, this effect was more pronounced in areas that were more suitable for tea cultivation. The graph on this slide illustrates this relationship, showing how higher tea prices correspond with a higher female population share. This provides strong evidence for the impact of economic factors on gender selection and survival rates.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Key Findings (2) -->
+  <rect width="1920" height="1080" fill="#f9f9f9"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Key Findings (2/2)</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">3. Economic incentives significantly influence gender selection</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">4. Effects manifest in both sex ratios at birth and infant survival rates</text>
+  <rect x="1000" y="150" width="800" height="600" fill="#e6f3ff" stroke="#3366cc" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Impact on Gender Outcomes</text>
+  <!-- Add a bar chart here -->
+  <rect x="1100" y="300" width="150" height="300" fill="#3366cc"/>
+  <rect x="1300" y="400" width="150" height="200" fill="#3366cc"/>
+  <rect x="1500" y="250" width="150" height="350" fill="#3366cc"/>
+  <text x="1175" y="620" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333333">Sex Ratio</text>
+  <text x="1375" y="620" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333333">Survival Rate</text>
+  <text x="1575" y="620" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333333">Education</text>
+</svg>
+
+Speaker Notes:
+Our analysis reveals that economic incentives play a crucial role in gender selection decisions. The increase in tea prices, which raised the economic value of women in tea-producing regions, significantly influenced families' choices. Importantly, these effects were observed in two key areas: sex ratios at birth and infant survival rates. The bar chart on this slide illustrates the impact on different gender outcomes, including sex ratio, survival rate, and even educational attainment. This multifaceted impact underscores the profound effect that economic factors can have on demographic trends.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Mechanism Analysis -->
+  <rect width="1920" height="1080" fill="#ffffff"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Mechanism Analysis</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Tea picking and female labor demand</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Income effects on household decision-making</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Shift in perceived value of female children</text>
+  <rect x="1000" y="150" width="800" height="600" fill="#f0f0f0" stroke="#666666" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Causal Mechanism</text>
+  <!-- Add a simple flow chart here -->
+  <rect x="1100" y="300" width="200" height="80" fill="#3366cc" rx="20" ry="20"/>
+  <rect x="1400" y="300" width="200" height="80" fill="#3366cc" rx="20" ry="20"/>
+  <rect x="1250" y="450" width="200" height="80" fill="#3366cc" rx="20" ry="20"/>
+  <path d="M1300 340 L1400 340" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M1500 380 L1350 450" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M1200 380 L1350 450" fill="none" stroke="#333333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <text x="1200" y="340" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#ffffff">Tea Price ↑</text>
+  <text x="1500" y="340" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#ffffff">Female Value ↑</text>
+  <text x="1350" y="490" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#ffffff">Gender Ratio ↓</text>
+  <!-- Define the arrowhead marker -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333333"/>
+    </marker>
+  </defs>
+</svg>
+
+Speaker Notes:
+Let's explore the mechanisms behind these findings. The increased demand for female labor in tea picking directly raised the economic value of women in these regions. This, in turn, affected household decision-making processes. As the perceived value of female children increased, families became more likely to invest in girls' survival and development. The flow chart on this slide illustrates this causal mechanism: higher tea prices led to an increase in the value of females, which ultimately resulted in a more balanced gender ratio. This demonstrates how economic incentives can shape cultural preferences and demographic outcomes.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Policy Implications -->
+  <rect width="1920" height="1080" fill="#f9f9f9"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Policy Implications</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Importance of enhancing women's economic value</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Potential impact of industry policies on demographics</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Need for integrated economic and social policies</text>
+  <rect x="1000" y="150" width="800" height="600" fill="#e6f3ff" stroke="#3366cc" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Policy Recommendations</text>
+  <!-- Add a list of policy recommendations -->
+  <text x="1050" y="300" font-family="Arial, sans-serif" font-size="24" fill="#333333">1. Promote female-friendly industries</text>
+  <text x="1050" y="350" font-family="Arial, sans-serif" font-size="24" fill="#333333">2. Invest in girls' education and skills</text>
+  <text x="1050" y="400" font-family="Arial, sans-serif" font-size="24" fill="#333333">3. Implement gender-sensitive economic policies</text>
+  <text x="1050" y="450" font-family="Arial, sans-serif" font-size="24" fill="#333333">4. Address cultural biases through education</text>
+  <text x="1050" y="500" font-family="Arial, sans-serif" font-size="24" fill="#333333">5. Monitor and evaluate policy impacts on gender ratios</text>
+</svg>
+
+Speaker Notes:
+The findings of this study have significant policy implications. Firstly, they highlight the importance of enhancing women's economic value as a means to address gender imbalance. Secondly, they reveal how industry policies can have far-reaching demographic impacts, sometimes in unexpected ways. This underscores the need for integrated economic and social policies that consider these complex interactions. The list on this slide outlines several policy recommendations, including promoting female-friendly industries, investing in girls' education, and implementing gender-sensitive economic policies. It's crucial that we monitor and evaluate the impacts of these policies on gender ratios to ensure their effectiveness.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Limitations and Future Research -->
+  <rect width="1920" height="1080" fill="#ffffff"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Limitations and Future Research</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Data constraints and potential measurement errors</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">• External validity concerns</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Long-term effects and intergenerational impacts</text>
+  <rect x="1000" y="150" width="800" height="600" fill="#f0f0f0" stroke="#666666" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Future Research Directions</text>
+  <!-- Add a mind map of research directions -->
+  <circle cx="1400" cy="400" r="100" fill="#3366cc"/>
+  <text x="1400" y="400" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Gender</text>
+  <text x="1400" y="430" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Economics</text>
+  <line x1="1400" y1="300" x2="1400" y2="200" stroke="#666666" stroke-width="2"/>
+  <text x="1400" y="190" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#333333">Other Industries</text>
+  <line x1="1500" y1="400" x2="1700" y2="400" stroke="#666666" stroke-width="2"/>
+  <text x="1710" y="400" font-family="Arial, sans-serif" font-size="20" text-anchor="start" fill="#333333">Global Comparisons</text>
+  <line x1="1400" y1="500" x2="1400" y2="600" stroke="#666666" stroke-width="2"/>
+  <text x="1400" y="620" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#333333">Long-term Effects</text>
+  <line x1="1300" y1="400" x2="1100" y2="400" stroke="#666666" stroke-width="2"/>
+  <text x="1090" y="400" font-family="Arial, sans-serif" font-size="20" text-anchor="end" fill="#333333">Policy Evaluations</text>
+</svg>
+
+Speaker Notes:
+While this study provides valuable insights, it's important to acknowledge its limitations. Data constraints and potential measurement errors may affect the precision of our estimates. Additionally, we must consider external validity: can these findings be generalized to other contexts or time periods? Future research should address these limitations and explore several key areas. The mind map on this slide outlines potential research directions, including studying similar effects in other industries, conducting global comparisons, evaluating long-term and intergenerational impacts, and assessing the effectiveness of policies inspired by these findings. By pursuing these research avenues, we can deepen our understanding of the complex relationship between economic factors and demographic outcomes.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Conclusion -->
+  <rect width="1920" height="1080" fill="#f9f9f9"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="50" fill="#333333">Conclusion</text>
+  <text x="150" y="200" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Economic value significantly impacts gender outcomes</text>
+  <text x="150" y="300" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Tea prices in China provide a unique natural experiment</text>
+  <text x="150" y="400" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Findings challenge purely cultural explanations of gender imbalance</text>
+  <text x="150" y="500" font-family="Arial, sans-serif" font-size="35" fill="#666666">• Implications for policy and future research</text>
+  <rect x="1000" y="150" width="800" height="600" fill="#e6f3ff" stroke="#3366cc" stroke-width="2"/>
+  <text x="1400" y="200" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Key Takeaways</text>
+  <!-- Add a visual summary -->
+  <circle cx="1200" cy="400" r="150" fill="#3366cc" opacity="0.7"/>
+  <circle cx="1600" cy="400" r="150" fill="#66cc33" opacity="0.7"/>
+  <text x="1200" y="400" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Economic</text>
+  <text x="1200" y="430" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Factors</text>
+  <text x="1600" y="400" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Gender</text>
+  <text x="1600" y="430" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff">Outcomes</text>
+  <text x="1400" y="550" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Complex Interplay</text>
+</svg>
+
+Speaker Notes:
+In conclusion, this groundbreaking study by Professor Nancy Qian demonstrates that economic value significantly impacts gender outcomes. The natural experiment provided by tea prices in China offers compelling evidence that challenges purely cultural explanations of gender imbalance. We've seen how increasing the economic value of women can lead to more balanced sex ratios and improved survival rates for girls. These findings have profound implications for policy-making and open up exciting avenues for future research. As we move forward, it's crucial that we consider the complex interplay between economic factors and gender outcomes in our efforts to address demographic challenges and promote gender equality.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Q&A Slide -->
+  <rect width="1920" height="1080" fill="#ffffff"/>
+  <text x="960" y="200" font-family="Arial, sans-serif" font-size="60" text-anchor="middle" fill="#333333">Questions &amp; Answers</text>
+  <text x="960" y="300" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#666666">Thank you for your attention</text>
+  <rect x="710" y="400" width="500" height="300" fill="#e6f3ff" stroke="#3366cc" stroke-width="2" rx="20" ry="20"/>
+  <text x="960" y="500" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">Scan QR code for</text>
+  <text x="960" y="550" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#333333">additional resources</text>
+  <!-- Placeholder for QR code -->
+  <rect x="835" y="600" width="250" height="250" fill="#cccccc"/>
+</svg>
+
+Speaker Notes:
+Thank you all for your attention. We've covered a lot of ground today, exploring how the price of tea in China has shed light on the complex issue of gender imbalance. I'm now open to any questions you may have about the study, its methodology, findings, or implications. Don't forget to scan the QR code for additional resources and a more in-depth look at Professor Qian's research. Your insights and queries are valuable in furthering this important discussion.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- References Slide -->
+  <rect width="1920" height="1080" fill="#f9f9f9"/>
+  <text x="960" y="100" font-family="Arial, sans-serif" font-size="50" text-anchor="middle" fill="#333333">References</text>
+  <text x="100" y="200" font-family="Arial, sans-serif" font-size="24" fill="#666666">1. Qian, N. (2008). Missing Women and the Price of Tea in China: The Effect of Sex-Specific Earnings on Sex Imbalance. The Quarterly Journal of Economics, 123(3), 1251-1285.</text>
+  <text x="100" y="250" font-family="Arial, sans-serif" font-size="24" fill="#666666">2. Sen, A. (1990). More Than 100 Million Women Are Missing. The New York Review of Books, 37(20).</text>
+  <text x="100" y="300" font-family="Arial, sans-serif" font-size="24" fill="#666666">3. Duflo, E. (2012). Women Empowerment and Economic Development. Journal of Economic Literature, 50(4), 1051-1079.</text>
+  <text x="100" y="350" font-family="Arial, sans-serif" font-size="24" fill="#666666">4. Ebenstein, A. (2010). The "Missing Girls" of China and the Unintended Consequences of the One Child Policy. Journal of Human Resources, 45(1), 87-115.</text>
+  <text x="100" y="400" font-family="Arial, sans-serif" font-size="24" fill="#666666">5. United Nations Population Division. (2019). World Population Prospects 2019.</text>
+</svg>
+
+Speaker Notes:
+This slide provides a list of key references that form the foundation of our discussion today. The primary source is, of course, Nancy Qian's 2008 paper published in The Quarterly Journal of Economics. We've also drawn insights from Amartya Sen's seminal work on missing women, Esther Duflo's research on women's empowerment and economic development, and other relevant studies on China's demographic challenges. These sources offer a wealth of information for those interested in delving deeper into the topics we've covered.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Thank You Slide -->
+  <rect width="1920" height="1080" fill="#e6f3ff"/>
+  <text x="960" y="400" font-family="Arial, sans-serif" font-size="80" text-anchor="middle" fill="#3366cc">Thank You</text>
+  <text x="960" y="500" font-family="Arial, sans-serif" font-size="40" text-anchor="middle" fill="#666666">For your attention and engagement</text>
+  <text x="960" y="600" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#999999">Presenter: [Your Name]</text>
+  <text x="960" y="650" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#999999">Email: [Your Email]</text>
+</svg>
+
+Speaker Notes:
+As we conclude this presentation, I want to express my sincere gratitude to all of you for your attention and engagement. The story of tea prices and missing women in China is a powerful reminder of how economic factors can shape demographic outcomes in unexpected ways. It challenges us to think more broadly about the causes of gender imbalance and the potential solutions. I hope this discussion has provided you with new insights and sparked your interest in this critical area of research. Thank you once again, and I look forward to any further discussions or collaborations that may arise from today's presentation.
